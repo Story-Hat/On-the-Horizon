@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/../../../../../Downloads/Torrents/Aseprite.v1.2.9/specialeddie.png","C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/bin/DesktopGL/Content/specialeddie.xnb","TextureProcessor","Texture2DContent",1152,16469,0.11837
+"C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/cursor.png","C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/bin/DesktopGL/Content/cursor.xnb","TextureProcessor","Texture2DContent",363,1109,0.1090995
+"C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/specialeddie.png","C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/bin/DesktopGL/Content/specialeddie.xnb","TextureProcessor","Texture2DContent",1152,16469,0.0110102
+"C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/Sprite-0001.png","C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/bin/DesktopGL/Content/Sprite-0001.xnb","TextureProcessor","Texture2DContent",433,4181,0.120109

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/../../../../../Downloads/Torrents/Aseprite.v1.2.9/specialeddie.png</File>
+    <File>C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/cursor.png</File>
+    <File>C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/specialeddie.png</File>
+    <File>C:/Users/jgrig/source/repos/On the Horizon/Game1/Content/Sprite-0001.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>specialeddie.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

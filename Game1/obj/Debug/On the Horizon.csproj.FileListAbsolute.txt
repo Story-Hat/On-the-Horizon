@@ -1,0 +1,23 @@
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\Content\2D\Sprite-0001.xnb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\Content\Sprite-0001.xnb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\Content\specialeddie.xnb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\Content\2D\specialeddie.xnb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\On the Horizon.exe
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\On the Horizon.pdb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\obj\Debug\On the Horizon.exe
+C:\Users\jgrig\source\repos\On the Horizon\Game1\obj\Debug\On the Horizon.pdb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\Content\2D\Misc\cursor.xnb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\bin\DesktopGL\AnyCPU\Debug\Content\cursor.xnb
+C:\Users\jgrig\source\repos\On the Horizon\Game1\obj\Debug\On the Horizon.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\libopenal.1.dylib" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\libSDL2-2.0.0.dylib" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\MonoGame.Framework.dll.config" t="Include" />
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x64" t="Include">
+      <e p="libopenal.so.1" t="Include" />
+      <e p="libSDL2-2.0.so.0" t="Include" />
+      <e p="SDL2.dll" t="Include" />
+      <e p="soft_oal.dll" t="Include" />
+    </e>
+    <e p="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\DesktopGL\x86" t="Include">
+      <e p="libopenal.so.1" t="Include" />
+      <e p="libSDL2-2.0.so.0" t="Include" />
+      <e p="SDL2.dll" t="Include" />
+      <e p="soft_oal.dll" t="Include" />
+    </e>
+    <e p="C:\Users\jgrig\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jgrig\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_On the Horizon.-947480362.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jgrig\source\repos\On the Horizon" t="IncludeFlat">
+      <e p="Game1" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="2D" t="Include">
+            <e p="Misc" t="Include">
+              <e p="cursor.xnb" t="Include" />
+            </e>
+            <e p="specialeddie.xnb" t="Include" />
+            <e p="Sprite-0001.xnb" t="Include" />
+          </e>
+          <e p="Audio" t="Include" />
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Icon.bmp" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="On the Horizon.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="source" t="Include">
+          <e p="Engine" t="Include">
+            <e p="Basic2D.cs" t="Include" />
+            <e p="Globals.cs" t="Include" />
+            <e p="Input" t="Include">
+              <e p="jKey.cs" t="Include" />
+            </e>
+            <e p="jKeyboard.cs" t="Include" />
+            <e p="jMouse.cs" t="Include" />
+          </e>
+          <e p="Gameplay" t="Include">
+            <e p="World" t="Include">
+              <e p="Player.cs" t="Include" />
+            </e>
+            <e p="World.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="On the Horizon.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
